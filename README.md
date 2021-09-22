@@ -52,7 +52,8 @@ Content-Type: multipart/form-data
 ## Result Example
 **Example Output 1** <br/>
 ![result_penguin](https://user-images.githubusercontent.com/54859935/134401918-ba830813-6acc-4523-876d-490e5bdc2514.png)
-------
+
+
 **Example Output 2** <br/>
 ![result_ikan](https://user-images.githubusercontent.com/54859935/134402069-1d68b0af-a898-44f3-a05e-54379c852d18.jpg)
 
