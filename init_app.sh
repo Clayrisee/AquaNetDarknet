@@ -15,7 +15,7 @@ mkdir cfg
 
 cd ..
 
-mv ./yolov4-custom.cfg darknet/cfg
+mv ./custom-yolov4-detector.cfg darknet/cfg
 
 mv ./obj.names darknet/data
 mv ./obj.data  darknet/data
